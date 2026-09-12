@@ -18,6 +18,10 @@ Tool for designing tablet weaving drafts
 <a href="https://github.com/YunoHost-Apps/tabletweave_ynh/issues"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_report_an_issue.svg"/></a>
 </div>
 
+
+## Screenshots
+![Screenshot of Tabletweave](./doc/screenshots/tabletweave.png)
+
 ## 📦 Developer info
 
 [![Automatic tests level](https://apps.yunohost.org/badge/cilevel/tabletweave)](https://ci-apps.yunohost.org/ci/apps/tabletweave/)
